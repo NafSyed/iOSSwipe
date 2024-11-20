@@ -7,54 +7,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "5EF58A6E-8C60-4E94-98B7-DF24F238D655"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Swipe/View/AddView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "199"
-            endingLineNumber = "199"
-            landmarkName = "resizeToSquare(image:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "5EF58A6E-8C60-4E94-98B7-DF24F238D655 - 91148d746c5a32a0"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Swipe.PhotoPicker.Coordinator.resizeToSquare(image: __C.UIImage) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
-                  moduleName = "Swipe"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nafeezahmed/Desktop/Swipe/Swipe/View/AddView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "188"
-                  endingLineNumber = "188"
-                  offsetFromSymbolStart = "340">
-               </Location>
-               <Location
-                  uuid = "5EF58A6E-8C60-4E94-98B7-DF24F238D655 - 91148d746c5a32a0"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Swipe.PhotoPicker.Coordinator.resizeToSquare(image: __C.UIImage) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
-                  moduleName = "Swipe"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nafeezahmed/Desktop/Swipe/Swipe/View/AddView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "188"
-                  endingLineNumber = "188"
-                  offsetFromSymbolStart = "640">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "0747B8CF-33FD-4F61-B937-B50333C9841E"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
@@ -95,6 +47,21 @@
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "176"
                   endingLineNumber = "176"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "0747B8CF-33FD-4F61-B937-B50333C9841E - 91148d746c5a32c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swipe.PhotoPicker.Coordinator.resizeToSquare(image: __C.UIImage) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Swipe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nafeezahmed/Desktop/Swipe/Swipe/View/AddView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
                   offsetFromSymbolStart = "84">
                </Location>
             </Locations>
@@ -145,23 +112,22 @@
                   endingLineNumber = "180"
                   offsetFromSymbolStart = "208">
                </Location>
+               <Location
+                  uuid = "F6752CF2-9C92-4493-A106-E045138AEC00 - 91148d746c5a3247"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swipe.PhotoPicker.Coordinator.resizeToSquare(image: __C.UIImage) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Swipe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nafeezahmed/Desktop/Swipe/Swipe/View/AddView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "208">
+               </Location>
             </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "2D1C49B6-7721-404F-AA66-FCB0783058C2"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Swipe/View/AddView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "205"
-            endingLineNumber = "205"
-            landmarkName = "resizeToSquare(image:)"
-            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy

@@ -8,7 +8,6 @@
 import SwiftUI
 
 struct ContentView: View {
-    @StateObject var viewModel = SwipeVM()
     var body: some View {
         IntroView()
     }
