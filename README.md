@@ -7,6 +7,12 @@ This project is a simple **Product Management App** implemented as per the requi
 
 ---
 
+## Demo Video
+You can view a demo of the app in action by clicking the link below:  
+[Watch Demo Video](https://drive.google.com/file/d/12FBuO_H6XQB_MIekfhiNS2uWSVXRENCg/view?usp=sharing)
+
+---
+
 ## Features Implemented
 
 ### **Screen 1: Product Listing**
